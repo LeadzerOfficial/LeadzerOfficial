@@ -1,5 +1,5 @@
 - Hi, I’m @LeadzerOfficial
 - I’m interested in games and art
-- I’m currently learning spirte art and javascript
-- Twitter: @Leadzer3
+- I’m currently learning spirte art and C#
+- Twitter: @LeadzerWasTaken
 - Discord: @Leadzer#3472
